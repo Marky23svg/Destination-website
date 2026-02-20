@@ -33,7 +33,7 @@ function App() {
       <header className="sticky top-0 z-50 bg-black/80 backdrop-blur text-white flex justify-between items-center px-10 py-5">
         <h1 className="text-3xl font-bold">Travel</h1>
         <nav className="hidden md:flex space-x-6">
-          <a href="#home" className="hover:scale-110 hover:text-red-500 transition">Home</a>
+          <a href="#home" className="hover:scale-110 hover:text-blue-500 transition">Home</a>
           <a href="#package" className="hover:scale-110 hover:text-blue-500 transition">Package</a>
           <a href="#destination" className="hover:scale-110 hover:text-blue-500 transition">Destination</a>
           <a href="#contact" className="hover:scale-110 hover:text-blue-500 transition">Contact</a>
